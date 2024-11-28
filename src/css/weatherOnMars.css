@@ -1,0 +1,54 @@
+.statsW
+{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 290px;
+    opacity: 0.87;
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+.statsW h2
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    opacity: 1;
+}
+
+.titleW
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: #f8f9fa solid 2px;
+    padding-bottom: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardW
+{
+    background-image: url('https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2022/08/shutterstock_1104793244.jpg');
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+
+.cardW:hover
+{
+    scale: 1.03;
+    transition: 0.1s;
+}
